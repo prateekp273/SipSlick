@@ -10,7 +10,7 @@ Welcome to SipSlick, a unique Flutter-based app designed for beverage enthusiast
 - **Community Reviews**: Read reviews from other users and share your own experiences.
 - **Interactive UI**: A user-friendly interface that's easy to navigate.
 
-## ![img.png](img.png)
+### ![img.png](img.png)
 
 
 
