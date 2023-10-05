@@ -1,4 +1,4 @@
-# shakes_app
+# SipSlick App
 
 A new Flutter project.
 
