@@ -129,7 +129,7 @@ class _HomePageState extends State<HomePage>
               Align(
                 alignment: Alignment.topLeft,
                 child: Text(
-                  "SHAKES",
+                  "SipSlick",
                   style: TextStyle(
                       color: Colors.white.withOpacity(.8),
                       fontSize: 25,
