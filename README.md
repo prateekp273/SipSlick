@@ -1,4 +1,4 @@
-# SipSlick App
+# SipSlick App 🍹☕️🥤
 
 A new Flutter project.
 
